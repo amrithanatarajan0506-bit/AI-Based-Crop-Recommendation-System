@@ -15,6 +15,14 @@ Farmers often face challenges in choosing the right crop due to varying soil and
 - Support data-driven farming decisions.
 - Promote sustainable agriculture practices.
 
+## Requirements
+-streamlit
+-pandas
+-numpy
+-scikit-learn
+-joblib
+ 
+
 ## ✨ Features
 
 - Predict suitable crops using Machine Learning.
