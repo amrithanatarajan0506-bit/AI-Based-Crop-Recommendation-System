@@ -101,3 +101,6 @@ The **AI-Based Crop Recommendation System** leverages machine learning technique
 If you found this project useful or interesting, please consider giving it a ⭐ on GitHub. Your support and feedback are greatly appreciated and help motivate future improvements.
 
 Thank you for visiting this repository! 🌱🚀
+
+## 🚀 Live Demo
+Try the **app** here: **https://ai-based-crop-recommendation-system-byamritha.streamlit.app/**
